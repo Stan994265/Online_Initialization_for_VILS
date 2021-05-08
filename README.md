@@ -27,6 +27,8 @@ Our VILS is a self-assembled handhold device, it consists of the following:
 - lidar_topic: `/lslidar_point_cloud`       5/10hz
 
 The datasets are avaliable here:
+Link：https://pan.baidu.com/s/1quMoph8gzQdlNboWlgLDZw 
+pin：gwnm 
 
 ##  Demo
 ### indoor
