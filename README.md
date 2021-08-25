@@ -1,4 +1,4 @@
-# Online Initialization for Monocular Visual-Inertial-LiDAR Systems with Extrinsic Calibration and Software Time Synchronization
+# Online Initialization for Monocular Visual-Inertial-LiDAR System with Extrinsic Calibration and Software Time Synchronization
 ##  Hardware introduction
 Our VILS is a self-assembled handhold device, it consists of the following:
 <img src="figure/device.png">
