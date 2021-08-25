@@ -44,3 +44,10 @@ pin：gwnm
 <img src="gif/outdoor3.gif">
 <img src="gif/outdoor4.gif">
 <img src="gif/outdoor5.gif">
+
+##  comparison (VI)
+<img src="gif/1.gif">
+<img src="gif/2.gif">
+<img src="gif/3.gif">
+<img src="gif/4.gif">
+<img src="gif/0.gif">
