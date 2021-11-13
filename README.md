@@ -36,14 +36,14 @@ pin：gwnm
 <img src="gif/indoor2.gif">
 <img src="gif/indoor3.gif">
 <img src="gif/indoor4.gif">
-<img src="gif/indoor5.gif">
+
 
 ### outdoor
 <img src="gif/outdoor1.gif">
-<img src="gif/outdoor2.gif">
-<img src="gif/outdoor3.gif">
 <img src="gif/outdoor4.gif">
-<img src="gif/outdoor5.gif">
+<img src="gif/outdoor3.gif">
+<img src="gif/outdoor2.gif">
+
 
 ##  comparison (VI)
 <img src="gif/1.gif">
@@ -51,3 +51,9 @@ pin：gwnm
 <img src="gif/3.gif">
 <img src="gif/4.gif">
 <img src="gif/0.gif">
+
+##  different installations 
+<img src="gif/dif.png">
+<img src="gif/dif1.gif">
+<img src="gif/dif2.gif">
+<img src="gif/dif3.gif">
