@@ -1,6 +1,6 @@
 # Online Initialization for Monocular Visual-Inertial-LiDAR System with Extrinsic Calibration and Software Time Synchronization
 ##  Hardware introduction
-Our VILS is a self-assembled handhold device, it consists of the following:
+Our VILS is a self-assembled handheld device, it consists of the following:
 <img src="figure/device.png">
 - MYNTEYE-D120 VI sensor                            https://www.mynteye.com/pages/mynt-eye-d
 - LeiShen-C16 3d spinning LiDAR                     https://www.leishen-lidar.com/
