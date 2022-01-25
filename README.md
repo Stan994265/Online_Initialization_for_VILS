@@ -1,4 +1,18 @@
 # Online Initialization for Monocular Visual-Inertial-LiDAR System with Extrinsic Calibration and Software Time Synchronization
+##  Related Paper
+Y. Wang and H. Ma, "Online Spatial and Temporal Initialization for a Monocular Visual-Inertial-LiDAR System," in IEEE Sensors Journal, vol. 22, no. 2, pp. 1609-1620, 15 Jan.15, 2022, doi: 10.1109/JSEN.2021.3133578.[Link](https://ieeexplore.ieee.org/document/9641839)
+```
+@ARTICLE{9641839,  
+author={Wang, Yan and Ma, Hongwei},  
+journal={IEEE Sensors Journal},   
+title={Online Spatial and Temporal Initialization for a Monocular Visual-Inertial-LiDAR System},   
+year={2022},  
+volume={22},  
+number={2},  
+pages={1609-1620},  
+doi={10.1109/JSEN.2021.3133578}}
+```
+
 ##  Hardware introduction
 Our VILS is a self-assembled handheld device, it consists of the following:
 <img src="figure/device.png">
